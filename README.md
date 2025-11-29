@@ -2,7 +2,7 @@
 
 This is a simple Task Manager RESTful API built with Node.js, Express.js, and PostgreSQL using Prisma as the ORM. The API allows you to create, read, update, and delete tasks. The API is documented using Swagger for easy exploration and testing.
 
-[🖥️ Live Demo (Render)](https://one01-task-manager-project-public-postgresql.onrender.com/api-docs/)
+[🖥️ Live Demo (Render)](https://one01-task-manager-project-public.onrender.com/api-docs/)
 
 ## Technologies Used ✨
 
