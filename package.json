@@ -1,5 +1,5 @@
 {
-  "name": "task-manager-api",
+  "name": "101-task-manager-project-public-postgresql",
   "version": "1.0.0",
   "description": "A RESTful API for managing tasks with PostgreSQL database",
   "main": "index.js",
